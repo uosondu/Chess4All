@@ -1,4 +1,6 @@
 # Chess4All
+#STILL IN PROGRESS
+
 Welcome to Chess4All, where the joy of chess knows no bounds! Have you ever experienced that exhilarating moment when you executed a classic smothered checkmate with your unpredictable knight, or perhaps clinched victory with a well-timed en passant move after a grueling defensive struggle? If you're a chess enthusiast like me, you've undoubtedly savored those dopamine-fueled highs and moments of pure ecstasy on the chessboard. But here's the catch – not everyone in your circle may share your fervor for the game. Finding an attentive audience for your daily rants about opening moves or lamenting your blunders can be a daunting task.
 
 Enter Chess4All, your very own Chess Social media, a haven designed especially for individuals like you, passionate chess aficionados craving a community that truly understands their zeal. Chess4All is not just a website; it's a vibrant hub where chess enthusiasts from all walks of life can gather to celebrate their shared love for the game. Whether you're a seasoned grandmaster or a budding chess prodigy, our platform offers a plethora of activities and resources to cater to your every chess-related need.
