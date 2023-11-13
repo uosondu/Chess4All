@@ -1,0 +1,12 @@
+/* Impact Story Box Styles */
+.impact-story-box {
+    text-align: center;
+}
+
+.impact-story-box img {
+    max-height: 200px; /* Adjust the image height as needed */
+    object-fit: cover;
+}
+
+/* Adjust the styles of impact-story-box and its children as needed */
+
